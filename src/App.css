@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  height: 25px;
+  width: 70%;
+  margin-bottom: 10px;
+  border: 2px solid lightseagreen;
+  border-radius: 10px;
+}
